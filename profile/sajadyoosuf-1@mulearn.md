@@ -51,3 +51,8 @@ I strongly believe that collaboration and continuous learning are the keys to su
 ## Profile Card
 
 ### MuLearn Dashboard Profile: [View Profile](https://app.mulearn.org/dashboard/profile)
+
+<img
+    src="https://mulearn.org/embed/rank/sajadyoosuf-1@mulearn"
+    width="400px">
+</img>
