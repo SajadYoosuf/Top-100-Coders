@@ -4,15 +4,15 @@ I am Sajad Yoosuf, a passionate Flutter developer striving to become a software 
 
 Portfolio Highlights
 
-Personal Website: sajadyoosuf.github.io
+Personal Website: [sajadyoosuf.github.io](https://sajadyoosuf.github.io/)
 
-GitHub: SajadYoosuf
+GitHub: [SajadYoosuf](https://github.com/SajadYoosuf)
 
-LinkedIn: Sajad Yoosuf
+LinkedIn: [Sajad Yoosuf](https://www.linkedin.com/in/SajadYoosuf/)
 
 Highly Visible Technical Content
 
-Medium Article: A Day in 2037: My Journey Beyond Earth
+Medium Article: [A Day in 2037: My Journey Beyond Earth](https://medium.com/@sajadyoosuf24/a-day-in-2037-my-journey-beyond-earth-27ed05044bb3)
 
 Leadership and Influence
 
@@ -50,4 +50,4 @@ I strongly believe that collaboration and continuous learning are the keys to su
 
 Profile Card
 
-MuLearn Dashboard Profile: View Profile
+MuLearn Dashboard Profile: [View Profile](https://app.mulearn.org/dashboard/profile)
